@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../my-resume/image"
+		},
+		{
+			"path": "../my-resume/css"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "obeid_julia_resume"
+	}
+}
